@@ -74,14 +74,11 @@ Each object includes full scientific and descriptive data.
 
 ## 📸 Screenshots
 
-
-
-```
-![Screenshot 1](assets/images/1.png)
-![Screenshot 2](assets/images/2.png)
-![Screenshot 3](assets/images/3.png)
-![Screenshot 4](assets/images/4.png)
-![Screenshot 5](assets/images/5.png)
+<img src="assets/images/1.png" width="1000">
+<img src="assets/images/2.png" width="1000">
+<img src="assets/images/3.png" width="1000">
+<img src="assets/images/4.png" width="1000">
+<img src="assets/images/5.png" width="1000">
 
 
 ---
